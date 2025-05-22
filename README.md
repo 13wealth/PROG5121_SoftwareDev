@@ -1,4 +1,4 @@
-## 🛠️ PROG5121_softwareDev
+## 🛠️ PROG5121_SoftwareDev
 This repository contains software development tasks and projects completed as part of my PROG5121 course.<br>
 The work here demonstrates practical applications of software engineering principles, web development techniques, and early exploration into big data technologies.
 
