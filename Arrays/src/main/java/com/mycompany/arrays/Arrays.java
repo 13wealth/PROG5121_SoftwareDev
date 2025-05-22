@@ -11,7 +11,7 @@ import java.util.Scanner;
  * Array indexes start at 0, meaning first element is at 0 index
  * Write a logic to enter student names based on the size of the array
  */
-public class Arrays 
+public class Arrays //Firtst update comment
 {
     public static void main(String[] args) 
     {
