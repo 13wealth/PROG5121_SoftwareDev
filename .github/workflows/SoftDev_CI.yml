@@ -21,6 +21,7 @@ jobs:
           distribution: 'temurin'
 
       - name: Build and test with Maven
+        working-directory: ./PROG5121_SoftwareDev/ChatMate
         run: mvn clean install
 
       # - name:  
